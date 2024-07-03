@@ -1,5 +1,5 @@
 
-# MYSILOAM TELECHAT DOCTOR NEXT APP BOILERPLATE #
+# MYSILOAM DOCTOR CHAT  #
 
 
 
@@ -11,9 +11,10 @@ This README would normally document for using Next App Boilerplate for MySiloam 
 
 
 
-* Frontend Web Chat for Doctor
+MySiloam Doctor Chat  build with Next JS Typescript with Tailwind CSS implementing
+Atomic Design methodology for components structuring. here is the detail [this link](https://github.com/danilowoz/react-atomic-design)
 
-
+![img.png](img.png)
 
 ### What includes on this boilerplate ###
 
